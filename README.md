@@ -1,5 +1,5 @@
 # Student-Management-System
-Student Management System using Java Servlets and JSP
+Student Management System using Java Servlets and JSP.
 
 ## Languages
 - Java
